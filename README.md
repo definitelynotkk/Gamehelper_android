@@ -18,3 +18,5 @@ it capture a screenshot and pull back to the computer, use matchTemplate in open
       
 Target Detection (In red rectangle)
 ![image](https://raw.githubusercontent.com/definitelynotkk/Gamehelper_android/master/detection.png)
+
+Target Detection (In red rectangle)
