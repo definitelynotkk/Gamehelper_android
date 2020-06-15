@@ -12,3 +12,9 @@ it capture a screenshot and pull back to the computer, use matchTemplate in open
 
 ### Running showcase
 ![image](https://raw.githubusercontent.com/definitelynotkk/Gamehelper_android/master/run.gif)
+     
+     
+     
+      
+Target Detection (In red rectangle)
+![image](https://raw.githubusercontent.com/definitelynotkk/Gamehelper_android/master/detection.png)
